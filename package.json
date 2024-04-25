@@ -4,10 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "David Zapata <dzr794@gmail.com>",
   "license": "MIT",
-  "dependencies": {}
+  "dependencies": {
+    "less": "^4.2.0"
+  }
 }
